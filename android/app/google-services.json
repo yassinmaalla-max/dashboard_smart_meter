@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "93950304814",
+    "firebase_url": "https://smart-meter-de29f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smart-meter-de29f",
+    "storage_bucket": "smart-meter-de29f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93950304814:android:38a2518fd0fe4b0ed435bf",
+        "android_client_info": {
+          "package_name": "com.example.dashboard_smart_meter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Ddyhu_kXfFRsHsSYIXSA8b3utmjEx14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

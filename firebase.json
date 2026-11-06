@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-meter-de29f",
+          "appId": "1:93950304814:android:38a2518fd0fe4b0ed435bf",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-meter-de29f",
+          "configurations": {
+            "android": "1:93950304814:android:38a2518fd0fe4b0ed435bf",
+            "ios": "1:93950304814:ios:89a0bd0011e1f3e3d435bf",
+            "macos": "1:93950304814:ios:89a0bd0011e1f3e3d435bf",
+            "web": "1:93950304814:web:94cdda2a911c7707d435bf",
+            "windows": "1:93950304814:web:9433f610922a441dd435bf"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
