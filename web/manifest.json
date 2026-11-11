@@ -1,6 +1,6 @@
 {
-    "name": "dashboard_smart_meter",
-    "short_name": "dashboard_smart_meter",
+    "name": "Smart Meter",
+    "short_name": "Smart Meter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
